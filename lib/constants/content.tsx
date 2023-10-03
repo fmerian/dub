@@ -105,7 +105,7 @@ export const getPopularArticles = () => {
 
 export const FEATURES_LIST = [
   {
-    title: "Powerful analytics for the modern marketer",
+    title: "Powerful Analytics For The Modern Marketer",
     shortTitle: "Advanced Analytics",
     accordionTitle: "Analytics that matter",
     description:
@@ -153,7 +153,7 @@ export const FEATURES_LIST = [
     ],
   },
   {
-    title: "Branded Links that Stand Out",
+    title: "Branded Links That Stand Out",
     shortTitle: "Branded Links",
     accordionTitle: "Use your own domain",
     description:
@@ -226,7 +226,7 @@ export const FEATURES_LIST = [
   {
     title: "Personalize Your Short links",
     shortTitle: "Personalization",
-    accordionTitle: "Personalize Your Short links",
+    accordionTitle: "Personalize Your Short Links",
     description:
       "Customize your link's behavior with device targeting, geo targeting, link cloaking, and more.",
     icon: Link2,
@@ -281,7 +281,7 @@ export const FEATURES_LIST = [
   // { title: "Programmatic Link Creation", shortTitle: "API", slug: "api" },
   {
     title: "Collaborate With Your Team",
-    shortTitle: "Team collaboration",
+    shortTitle: "Team Collaboration",
     accordionTitle: "Collaborate With Your Team",
     description:
       "Invite your teammates to collaborate on your links. For enterprises, Dub offers SAML SSO for better security.",
